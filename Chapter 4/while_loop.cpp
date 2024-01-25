@@ -15,5 +15,13 @@ int main()
     }
 
     cout << "Fire!" << endl;
+    unsigned int i;
+    do
+    {
+        cout << "Enter a number: ";
+        cin >> i;
+        cout << "You entered: " << i << endl;
+    } while (i != 0);
+    
     return 0;
 }
