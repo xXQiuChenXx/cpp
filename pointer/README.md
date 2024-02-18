@@ -4,4 +4,4 @@
 Chapter for pointer
 
 
-Stores memory address 
+Stores memory address as their data value
